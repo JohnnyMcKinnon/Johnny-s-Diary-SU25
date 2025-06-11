@@ -1,1 +1,1 @@
-# Johnny-s-Diary-SU25
+# Johnnys-Diary-SU25
