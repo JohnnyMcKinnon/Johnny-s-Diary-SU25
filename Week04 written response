@@ -1,1 +1,11 @@
-Written Response for Week04 NAME:
+Written Response for Week04 TrainLine:
+My code was pretty much on par with the answer key except for the fact that I created a tail node instead of using 
+Station Last. But other than than I eliminated the loop and I just added a counter to always have the number of nodes
+on standby for when I need to refernece the tail in this case. 
+Impact: I think I leave myself with not enough time to do the homework assignment becasue I leave for work right after 
+class, and then I don't get home until 8pm. I fear that if I don't get my homework done on a Tuesday night, I won't get 
+points for the homework so then I stress myself out studying the code so I can actually get it done correctly so I don't
+have to redo it. In a strange way, it helps me learn better because I don't want to mess up! 
+Solution: I work in the car industry, specifically McGrath Lexus of Westmont(If you need a Lexus let me know ;), so my off
+days are Sunday, which is really when I should do my homework, but it's also my only off day so if I am not golfing then
+I am swimming or cleaning or doing somethin on my own time.
