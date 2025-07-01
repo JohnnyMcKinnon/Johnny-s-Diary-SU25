@@ -1,1 +1,17 @@
 Written Response for Week05 NODE:
+Upon review of last weeks assignment, I felt really good about my submission and THANK GOODNESS I STARTED EARLIER.
+I usually wait until Tuesday to do my homework because otherwise I am at work, but I started last weeks assignment on 
+Sunday or Monday and I just couldn't get the code to work. I got comfortable with the code and with all the methods, but
+I was getting a strange output that I even emailed you about. After review of your suggestions and backtracking through
+the assigment and the Programmer Pact, I realized my indexOf or my toString code was completely wrong. The more I think
+about it, I think it was both methods that were written wrong. When I started writing my code on Tuesday, I copy pasted 
+the original prewritten code back into my own classes and completely restarted. I was also missing the implemention code 
+email you sent out later, so that was a big help in correcting my mistakes on the first try. My code itself is correct, 
+and I was happy with the code I submitted and my submission looks quite similar to your answer key.
+
+MidTerm Review: My submissions have been on par so far, nothing has been late and I am joining the meetings on time. My code in previous weeks have consistently been right, but a lot of my learning comes from during the assignment and researching any questions I have whilst writing the code. It's also nice that I am now using github for the first time
+versus trying to write code in terminal based emulators that take forever to load and negates the coding experience. I 
+love you as a professor, and I don't know if you remember me from last year but you substituted for a class of mine with 
+Professor Viswanathan, and after class I asked you what classes you were gonna teach in the summer and what your name was. I love how you connect the code we are writing to real world scenarios. It really helps me think of the code, especially the true identity of arrays in general, in a less obscure way by comparing them to a hotel. In addition, I come to class prepared, I take notes, I participate in class when you ask general questions, and when you ask other students questions, I still think of the answer, and answer in my own head. I have already learned a lot, and I can already see how you and this specific class will be the backbone to my computer science career. Whether its because of you changing my way of thinking by using real world scenarios to make it a more familiar situation, or about arrays and how if you're shifting left to right, you start on the left. Same with shifting from right to left, you start on the right.
+
+A small suggestion I would have to say is that while the whiteboard work you do does help, I would like to see more java/github friendly code instead of psuedo code. Visually, it helps me better when I know what the code should look like, fully written out. Personally, code is so precise in the sense that theres only so many ways you can truly write code with it being correct AND efficent. So, by you, an avid coder, elite even, showing the true form of what shifting an array really looks like, or substituting, or even code as simple as your basic constructors, seeing what they should contain/look like fully written up could be a huge boost in learning. Small sugestion, if not the puesdo code and your explanations are knowledgeable enough!
