@@ -8,4 +8,5 @@ Week02-DONE
 Week03-DONE
 Week04-DONE
 Week05-DONE
-Week06-Next week
+Week06-DONE
+Week07-Next Week
