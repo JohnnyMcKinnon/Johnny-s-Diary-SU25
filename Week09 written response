@@ -1,0 +1,8 @@
+Written Response for Week09 HashTable: (I originally shared a google doc with you for my week 9 code and week 8 reflection. 
+The google doc is called Week 9 code submission: Johnny McKinnon)
+
+My code was pretty on point in terms of the added methods for the assignment and is syntactfully accurate. 
+My code accurately counts how many nodes are used using “totalNodes” and occupied slots using “usage”. 
+My code then rehashes to (2X) of whatever the initial node count is, and most importantly, resets the totalNode count 
+and usage count, and then re-evaluates the count after rehashing. Once the nodes fill up 75%(¾), the array is then 
+duplicated with 2x as many node slots, and the data get redistributed to further spread the data.
