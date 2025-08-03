@@ -1,1 +1,10 @@
 Written Response for Week10 Merge.Java:
+My code spaces wasn't cooperating when I attempted to complete this assignment and then I got incredibly sick on Friday
+(07/18). With being in and out of the hospital, along with missing a week+ of work, I will be honest, I first completed 
+the assignment on a google doc, and just never copied my work into the code spaces. I shared the google doc with you called:
+"Week 9 code submission: Johnny McKinnon" For the assignment itself, I wrote all the testing code, which clearly shows that
+I completed the assignment because how can one write the testing code for code that doesn't exist? Unfortunately I 
+understand I cannot get credit for work that isn't shown in the final product so I am okay with an incomplete.
+Somehow all I have for my code is merge and mergeSort.
+As for my testing code, my code runs through the array and accurately; 1) sort the array, 2) find the max value in the 
+array, 3) reverses the array, 4) lists the mode, 5) searches the array for any given element, and lists the index #
